@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/awscdk-ssm-secure_string_sample.ts"
+}
